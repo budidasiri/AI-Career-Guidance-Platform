@@ -1,1 +1,46 @@
+# AI Career Guidance Platform
 
+An AI-powered career recommendation platform built using HTML, CSS, and JavaScript.
+
+## Features
+- # AI Career Guidance Platform
+
+An AI-inspired Career Guidance Platform built using HTML, CSS and JavaScript.
+
+## Features
+- Career Recommendations
+- Career Match Score
+- Skill Gap Analysis
+- Learning Roadmap
+- Certifications
+- Interview Questions
+- Project Recommendations
+- Top Hiring Companies
+- PDF Report Download
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Project Structure
+- index.html
+- style.css
+- script.js
+
+## Screenshots
+
+### Home Page
+![Home Page](Homepage_sc.png)
+
+### AI Engineer Recommendation
+![AI Engineer](AI Engineer_output.png)
+
+### Data Analyst Recommendation
+![Data Analyst](Data analyst_output.png)
+
+### Full Stack Recommendation
+![Full Stack](Fullstack_output.png)
+
+## Author
+Budida Siri
