@@ -29,7 +29,7 @@ An AI-powered career recommendation platform built using HTML, CSS, and JavaScri
 ![Home Page](Homepage_sc.png)
 
 ### AI Engineer Output
-![AI Engineer](AI_Engineer_output.png)
+![AI Engineer](AI_engineer_output.png)
 
 ### Data Analyst Output 1
 ![Data Analyst 1](Data_analyst_output.png)
