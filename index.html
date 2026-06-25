@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Career Guidance Platform</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+
+    <h1>AI Career Guidance Platform</h1>
+
+    <input type="text" id="name" placeholder="Enter Name">
+
+    <input type="text" id="branch" placeholder="Enter Branch">
+
+    <input type="text" id="skills" placeholder="Enter Skills">
+
+    <input type="text" id="interest" placeholder="Enter Interest">
+
+    <button onclick="showCareer()" style="margin-bottom:10px;">
+    Get Career Guidance
+    </button>
+
+    <button onclick="downloadPDF()">
+    Download Report
+    </button>
+
+    <hr>
+
+    <div id="result"></div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
